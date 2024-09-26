@@ -1,0 +1,7 @@
+
+challenges : 
+  
+   - Get Live Data 
+   - update the ui 
+   - API Polling (GMAIL)
+   - Web Sockets (Trading App)

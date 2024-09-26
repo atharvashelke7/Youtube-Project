@@ -10,4 +10,4 @@ const reportWebVitals = onPerfEntry => {
   }
 };
 
-export default reportWebVitals;
+export default reportWebVitals;   //web vitals are set of metrics that measures the performance and user experience of the web page 
